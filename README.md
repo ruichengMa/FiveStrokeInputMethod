@@ -1,5 +1,5 @@
 # FiveStrokeInputMethod
-##五笔输入法总结
+## 五笔输入法总结
 ### 一、字根
 ![横类](./imgs/heng.jpg) 
 
